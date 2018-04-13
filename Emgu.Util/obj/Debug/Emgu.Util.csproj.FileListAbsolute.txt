@@ -1,0 +1,14 @@
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\Emgu.Util.XML
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\Emgu.Util.dll
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\Emgu.Util.pdb
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\Emgu.Util\obj\Debug\Emgu.Util.csprojResolveAssemblyReference.cache
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\Emgu.Util\obj\Debug\Emgu.Util.csproj.CoreCompileInputs.cache
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\Emgu.Util\obj\Debug\Emgu.Util.dll
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\Emgu.Util\obj\Debug\Emgu.Util.pdb
+C:\Users\Nullcaster\Desktop\PingPongProject2\bin\Emgu.Util.XML
+C:\Users\Nullcaster\Desktop\PingPongProject2\bin\Emgu.Util.dll
+C:\Users\Nullcaster\Desktop\PingPongProject2\bin\Emgu.Util.pdb
+C:\Users\Nullcaster\Desktop\PingPongProject2\Emgu.Util\obj\Debug\Emgu.Util.csprojResolveAssemblyReference.cache
+C:\Users\Nullcaster\Desktop\PingPongProject2\Emgu.Util\obj\Debug\Emgu.Util.csproj.CoreCompileInputs.cache
+C:\Users\Nullcaster\Desktop\PingPongProject2\Emgu.Util\obj\Debug\Emgu.Util.dll
+C:\Users\Nullcaster\Desktop\PingPongProject2\Emgu.Util\obj\Debug\Emgu.Util.pdb

@@ -1,0 +1,17 @@
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\Emgu.CV.License.txt
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\tessdata\eng.cube.bigrams
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\tessdata\eng.cube.fold
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\tessdata\eng.cube.lm
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\tessdata\eng.cube.nn
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\tessdata\eng.cube.params
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\tessdata\eng.cube.size
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\tessdata\eng.cube.word-freq
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\tessdata\eng.tesseract_cube.nn
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\tessdata\eng.traineddata
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\Emgu.CV.OCR.XML
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\Emgu.CV.OCR.dll
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\Emgu.CV.OCR.pdb
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\Emgu.CV.OCR\obj\Debug\Emgu.CV.OCR.csprojResolveAssemblyReference.cache
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\Emgu.CV.OCR\obj\Debug\Emgu.CV.OCR.csproj.CoreCompileInputs.cache
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\Emgu.CV.OCR\obj\Debug\Emgu.CV.OCR.dll
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\Emgu.CV.OCR\obj\Debug\Emgu.CV.OCR.pdb

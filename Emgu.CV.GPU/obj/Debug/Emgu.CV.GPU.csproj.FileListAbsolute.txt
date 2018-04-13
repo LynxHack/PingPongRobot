@@ -1,0 +1,8 @@
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\Emgu.CV.License.txt
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\Emgu.CV.GPU.XML
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\Emgu.CV.GPU.dll
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\bin\Emgu.CV.GPU.pdb
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\Emgu.CV.GPU\obj\Debug\Emgu.CV.GPU.csprojResolveAssemblyReference.cache
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\Emgu.CV.GPU\obj\Debug\Emgu.CV.GPU.csproj.CoreCompileInputs.cache
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\Emgu.CV.GPU\obj\Debug\Emgu.CV.GPU.dll
+C:\Emgu\libemgucv-windows-universal-cuda-2.9.0.1922-beta\Emgu.CV.GPU\obj\Debug\Emgu.CV.GPU.pdb
